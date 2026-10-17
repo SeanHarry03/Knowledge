@@ -1,2 +1,5 @@
-# Knowledge
-文档：VPS
+# 文档
+
+## VPS
+
+[VPS搭建](./VPS/VPS.md)
